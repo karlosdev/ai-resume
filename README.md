@@ -1,0 +1,1 @@
+A project I did as part of learning to use the OpenAI api and streamlit
